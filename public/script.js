@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000");
+const socket = io("https://node-chat-app-production-65c8.up.railway.app/");
 
 const clientsTotal = document.getElementById("clients-total");
 
